@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152.014" height="134.25" viewBox="0 0 152.014 134.25">
+  <defs>
+    <filter id="Rectangle_552" x="5.569" y="14.636" width="146.445" height="119.614" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12626" data-name="Group 12626" transform="translate(-393.604 -9019.669)">
+    <path id="Path_12722" data-name="Path 12722" d="M-14434.086,9067.769a65.514,65.514,0,0,1,5.851,5.317c1.928,2.314-3.21-1.836,0,0" transform="translate(14874.083 -5.82)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Ellipse_117" data-name="Ellipse 117" transform="translate(393.603 9019.669)" fill="#efefef" stroke="#707070" stroke-width="1">
+      <circle cx="3.799" cy="3.799" r="3.799" stroke="none"/>
+      <circle cx="3.799" cy="3.799" r="3.299" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 393.6, 9019.67)" filter="url(#Rectangle_552)">
+      <rect id="Rectangle_552-2" data-name="Rectangle 552" width="79.424" height="34.532" rx="11" transform="matrix(0.94, 0.34, -0.34, 0.94, 47.38, 41.64)" fill="#fff"/>
+    </g>
+    <text id="Wir_empfehlen" data-name="Wir
+empfehlen" transform="matrix(0.94, 0.342, -0.342, 0.94, 470.157, 9086.239)" fill="#084b99" font-size="10" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-9.45" y="0">Wir</tspan><tspan x="-28.475" y="13">empfehlen</tspan></text>
+    <g id="Ellipse_118" data-name="Ellipse 118" transform="translate(445.754 9066.511)" fill="#efefef" stroke="#707070" stroke-width="1">
+      <circle cx="2.417" cy="2.417" r="2.417" stroke="none"/>
+      <circle cx="2.417" cy="2.417" r="1.917" fill="none"/>
+    </g>
+    <path id="Path_12721" data-name="Path 12721" d="M-14473.271,9027.657s-4.093-1.86-5.766,1.548-.931,47.732,51.717,47.112c4.467-1.394,0-3.874,0-3.874" transform="translate(14873.764 -4.158)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
